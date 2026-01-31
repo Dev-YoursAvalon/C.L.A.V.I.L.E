@@ -1,0 +1,45 @@
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS JURÍDICOS TRIBUTÁRIOS
+
+Pelo presente instrumento particular, de um lado:
+
+CONTRATANTE: {{contratante}}
+{{label_doc}}: {{doc_contratante}}
+Endereço: {{endereco_contratante}}
+
+E, de outro lado:
+
+CONTRATADO: {{contratado}}
+
+As partes resolvem firmar o presente contrato, mediante as cláusulas seguintes.
+
+CLÁUSULA PRIMEIRA – DO OBJETO
+1.1. O presente contrato tem como objeto a prestação de serviços jurídicos na modalidade de {{tipo_servico}}.
+1.2. A atuação técnica do CONTRATADO consistirá em questões relacionadas ao/à: {{tributo_orgao}}.
+1.3. Fica registrado o seguinte identificador de demanda (Processo ou Finalidade): {{info_adicional}}.
+
+CLÁUSULA SEGUNDA – DOS HONORÁRIOS
+2.1. Pelos serviços prestados, o CONTRATANTE pagará ao CONTRATADO: {{honorarios}}.
+2.2. O valor atribuído à causa ou ao proveito econômico pretendido nesta data é de R$ {{valor_causa}}.
+
+CLÁUSULA TERCEIRA – DAS OBRIGAÇÕES
+3.1. O CONTRATADO compromete-se a atuar com diligência técnica e observância da legislação tributária vigente, utilizando os meios jurídicos adequados para a defesa dos interesses do CONTRATANTE.
+3.2. O CONTRATANTE compromete-se a fornecer toda a documentação, comprovantes de recolhimento e informações necessárias à execução do objeto em tempo hábil.
+
+CLÁUSULA QUARTA – DA VIGÊNCIA E RESCISÃO
+4.1. Este contrato entra em vigor na data de sua assinatura, perdurando até o final da prestação do serviço ou decisão final na esfera administrativa/judicial.
+4.2. Em caso de desistência por parte do CONTRATANTE, os honorários fixos eventualmente pagos não serão devolvidos.
+
+CLÁUSULA QUINTA – DO FORO
+5.1. Fica eleito o foro do domicílio do CONTRATANTE para dirimir eventuais conflitos decorrentes deste instrumento.
+
+E, por estarem assim acordadas, as partes assinam o presente contrato.
+
+[CIDADE/ESTADO], [DATA].
+
+__________________________________________________
+
+ASSINATURA: {{contratante}}
+
+__________________________________________________
+
+ASSINATURA: {{contratado}}

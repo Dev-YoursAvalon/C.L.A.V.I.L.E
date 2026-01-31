@@ -1,0 +1,35 @@
+CONTRATO ADMINISTRATIVO DE PRESTAÇÃO DE SERVIÇOS JURÍDICOS
+
+Pelo presente instrumento particular, de um lado:
+
+CONTRATANTE: {{contratante}}
+TIPO: {{org_pessoa}}
+{{label_identificador}}: {{documento_identificador}}
+ENDEREÇO: {{endereco_contratante}}
+
+E, de outro lado:
+
+CONTRATADO: {{contratado}}
+
+As partes acima identificadas ajustam o presente contrato, fundamentado na Lei nº {{lei_base}}, sob a modalidade {{modalidade}} e Edital/Licitação nº {{licitacao}}, que se regerá pelas cláusulas a seguir.
+
+CLÁUSULA PRIMEIRA – DO OBJETO
+O presente contrato tem como objeto a prestação de serviços jurídicos para: {{objeto}}.
+
+CLÁUSULA SEGUNDA – DAS OBRIGAÇÕES E FISCALIZAÇÃO
+Compete ao CONTRATADO prestar os serviços com zelo e observância da legislação.
+A fiscalização da execução deste contrato será realizada por: {{fiscal_contrato}}.
+
+CLÁUSULA TERCEIRA – DO PAGAMENTO
+O pagamento será realizado no prazo de: {{praz_pag}}.
+
+CLÁUSULA QUARTA – DO FORO
+Fica eleito o foro do domicílio do CONTRATANTE para dirimir quaisquer controvérsias.
+
+E, por estarem assim justas e contratadas, firmam o presente instrumento.
+
+____________________________________
+{{contratante}}
+
+____________________________________
+{{contratado}}
