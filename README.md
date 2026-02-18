@@ -55,8 +55,16 @@ Estrutura do Projeto
 └── README.md            # Documentação do projeto
 AUTOR:
 
+<<<<<<< HEAD
 ////yours.avalon
 
 // Desenvolvedor Iniciante focado em Python e Automação.
 
 (ESTE PROJETO FOI FEITO COM O INTUITO EDUCACIONAL !!!)
+=======
+////Yann Kleber Santana de Oliveira
+
+// Desenvolvedor Iniciante focado em Python e Automação.
+
+(ESTE PROJETO FOI FEITO COM O INTUITO EDUCACIONAL !!!)
+>>>>>>> 426809c (Salvando progresso do C.L.A.V.I.L.E antes do pull)
