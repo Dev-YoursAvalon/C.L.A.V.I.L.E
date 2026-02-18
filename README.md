@@ -1,4 +1,4 @@
-PROJETO - GERADOR DE CONTRATOS JUDICIAIS // NIVEL INICIANTE
+PROJETO - C.L.A.V.I.L.E | GERADOR DE CONTRATOS JUDICIAIS // NIVEL INICIANTE
 
 GERADOR DE CONTRATOS JURIDICOS AUTOMATIZADO:
 // Este projeto é um sistema inteligente desenvolvido em Python para automatizar a redação de contratos jurídicos. Ele utiliza uma estrutura de Árvore de Decisão para coletar dados específicos dependendo do ramo do Direito selecionado, gerando documentos personalizados e precisos de acordo com o desejo do usuario.
@@ -55,16 +55,11 @@ Estrutura do Projeto
 └── README.md            # Documentação do projeto
 AUTOR:
 
-<<<<<<< HEAD
-////yours.avalon
-
-// Desenvolvedor Iniciante focado em Python e Automação.
-
-(ESTE PROJETO FOI FEITO COM O INTUITO EDUCACIONAL !!!)
-=======
 ////Yann Kleber Santana de Oliveira
 
 // Desenvolvedor Iniciante focado em Python e Automação.
 
 (ESTE PROJETO FOI FEITO COM O INTUITO EDUCACIONAL !!!)
->>>>>>> 426809c (Salvando progresso do C.L.A.V.I.L.E antes do pull)
+
+
+
